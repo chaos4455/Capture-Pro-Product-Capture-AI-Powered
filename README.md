@@ -136,7 +136,3 @@ Entre em contato conosco hoje mesmo para saber mais sobre como o Replika Capture
 ![chrome_aE6ZGlsVNv](https://github.com/user-attachments/assets/a1e26fb2-28c3-4b8a-bf4b-9f6a7fa331e7)
 
 
-## 📧 Contato
-
-Elias Andrade
-
