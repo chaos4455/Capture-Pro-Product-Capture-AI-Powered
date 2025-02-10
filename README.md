@@ -1,15 +1,5 @@
 # 🤖 Replika Capture Pro: A Revolução na Captura de Dados com IA! 🚀
 
-[![Project Status: Active – The project has reached a stable, usable state and is being actively maintained.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Open Issues](https://img.shields.io/github/issues/seu-usuario/replika-capture-pro?color=yellow)](https://github.com/seu-usuario/replika-capture-pro/issues)
-[![Open PRs](https://img.shields.io/github/pulls/seu-usuario/replika-capture-pro?color=yellow)](https://github.com/seu-usuario/replika-capture-pro/pulls)
-[![Last Commit](https://img.shields.io/github/last-commit/seu-usuario/replika-capture-pro?color=yellow)](https://github.com/seu-usuario/replika-capture-pro/commits/main)
-[![Stars](https://img.shields.io/github/stars/seu-usuario/replika-capture-pro?style=social)](https://github.com/seu-usuario/replika-capture-pro)
-[![Forks](https://img.shields.io/github/forks/seu-usuario/replika-capture-pro?style=social&color=yellow)](https://github.com/seu-usuario/replika-capture-pro)
-[![Watchers](https://img.shields.io/github/watchers/seu-usuario/replika-capture-pro?style=social&color=yellow)](https://github.com/seu-usuario/replika-capture-pro)
-[![Contributors](https://img.shields.io/github/contributors/seu-usuario/replika-capture-pro?color=yellow)](https://github.com/seu-usuario/replika-capture-pro/graphs/contributors)
-
 <br>
 
 **Criado por Elias Andrade: Transformando Pesquisa em IA em Solução Real para o Seu Negócio!** ✨
