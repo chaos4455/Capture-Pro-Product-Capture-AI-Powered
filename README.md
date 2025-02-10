@@ -1,6 +1,7 @@
 # 🤖 Replika Capture Pro: A Revolução na Captura de Dados com IA! 🚀
 
-<br>
+![fbb60e3d-f846-4c5a-a9b6-7aaa4e695b65](https://github.com/user-attachments/assets/19a4bb1e-9e3e-4b94-a4d1-adc119e36d35)
+
 
 **Criado por Elias Andrade: Transformando Pesquisa em IA em Solução Real para o Seu Negócio!** ✨
 
